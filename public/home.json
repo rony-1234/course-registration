@@ -1,0 +1,76 @@
+
+     [
+      {
+        "id": 1,
+        "img": "https://i.ibb.co/RPfbvfX/Rectangle-2.png",
+        "heading": "Intro to OOP Python",
+        "p": "It is a long established fact that a reader will be distracted by the readable content.",
+        "price": 10.99,
+        "credit": 6
+      },
+      {
+        "id": 2,
+        "img": "https://i.ibb.co/TW2hDJV/Rectangle-2-1.png",
+        "heading": "Database (MySQL)",
+        "p": "It is a long established fact that a reader will be distracted by the readable content.",
+        "price": 19.99,
+        "credit": 3
+      },
+      {
+        "id": 3,
+        "img": "https://i.ibb.co/g6nthC8/Rectangle-2-2.png",
+        "heading": "Intro to C language",
+        "p": "It is a long established fact that a reader will be distracted by the readable content .",
+        "price": 5.99,
+        "credit": 10
+      },
+      {
+        "id": 4,
+        "img": "https://i.ibb.co/k8HsK4j/Rectangle-2-3.png",
+        "heading": "Intro to Algorthims",
+        "p": "It is a long established fact that a reader will be distracted by the readable content.",
+        "price": 15.99,
+        "credit": 15
+      },
+      {
+        "id": 5,
+        "img": "https://i.ibb.co/127LCrr/Rectangle-2-4.png",
+        "heading": "Intro to C++ for DSA",
+        "p": "It is a long established fact that a reader will be distracted by the readable content.",
+        "price": 7.99,
+        "credit": 12
+      },
+      {
+        "id": 6,
+        "img": "https://i.ibb.co/jDFTZPK/Rectangle-2-5.png",
+        "heading": "Software Engineering",
+        "p": "It is a long established fact that a reader will be distracted by the readable content.",
+        "price": 12.99,
+        "credit": 18
+      },
+      {
+        "id": 7,
+        "img": "https://i.ibb.co/7z4CVvM/Rectangle-2-6.png",
+        "heading": "Problem Solving part",
+        "p": "It is a long established fact that a reader will be distracted by the readable content.",
+        "price": 9.99,
+        "credit": 19
+      },
+      {
+        "id": 8,
+        "img": "https://i.ibb.co/1bWphHQ/Rectangle-3.png",
+        "heading": "Basic Data Stucture",
+        "p": "It is a long established fact that a reader will be distracted by the readable content.",
+        "price": 14.99,
+        "credit": 20
+      },
+      {
+        "id": 9,
+        "img": "https://i.ibb.co/2MVK4sT/Rectangle-3-1.png",
+        "heading": "Aws,Cloud Compute",
+        "p": "It is a long established fact that a reader will be distracted by the readable content.",
+        "price": 8.99,
+        "credit": 20
+      }
+    ]
+  
